@@ -1,0 +1,25 @@
+{
+    "name": "Bistabiler_Schalter",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "warte bis...": "github:calliope-edu/warte-bis#208c664d13fa2cd76d976828347fd2d9dd5fa725"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.41",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
